@@ -5,8 +5,8 @@ Data: 2026-11-08. Stato: bozza da approvare da Mauro.
 Fonte: Lion Kimbro, *How to Make a Complete Map of Every Thought You Think*
 (2003), CC BY-SA 1.0, copia integrale in `book/`. I numeri di riga `Lnnnn`
 si riferiscono a `book/book.txt`. Estratto completo delle specifiche del libro,
-con citazioni: nota di lavoro `kimbro-hybrid-spec-extract.md` (da copiare in
-`docs/book-spec-extract.md` nella PR, sotto CC BY-SA 1.0).
+con citazioni: [`docs/book-spec-extract.md`](../../book-spec-extract.md), sotto
+CC BY-SA 1.0.
 
 Convenzione: **[Libro Lnnnn]** = deciso dal libro; **[Mauro]** = deciso da
 Mauro; **[Claude]** = scelta di Claude dove il libro tace, con la ragione.
